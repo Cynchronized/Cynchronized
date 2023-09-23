@@ -1,12 +1,10 @@
-### Hi there 👋
-
-## [Austin Thieu]
+## Austin Thieu
 
 👨‍💻 Full Stack Developer | 🌐 Web Enthusiast | 🚀 Passionate about Code
 
 ### About Me
 
-👋 Welcome to my GitHub profile! I'm [Austin], and I'm on a journey to explore the vast world of software development. I'm a firm believer in the power of code to create innovative solutions and make the world a better place.
+👋 Welcome to my GitHub profile! I'm Austin, and I'm on a journey to explore the vast world of software development. I'm a firm believer in the power of code to create innovative solutions and make the world a better place.
 
 🚀 I specialize in full stack development, and I'm proficient in a range of technologies, including JavaScript, Java, HTML, and CSS. I'm constantly honing my skills and seeking opportunities to work on exciting projects that challenge me to think creatively and critically.
 
@@ -25,7 +23,7 @@
 
 ### Fun Facts
 
-🌟 When I'm not coding, you can find me [Gaming].
+🌟 When I'm not coding, you can find me Gaming, Weight lifting, and Cooking!.
 
 ### Find Me Online
 
