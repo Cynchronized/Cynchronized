@@ -28,5 +28,6 @@
 ### Find Me Online
 
 🌐 [LinkedIn](www.linkedin.com/in/austinthieu)
+📫 [Email](austin.thieu123@gmail.com)
 
 ---
