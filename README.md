@@ -23,7 +23,7 @@
 
 ### Fun Facts
 
-🌟 When I'm not coding, you can find me Gaming, Weight lifting, and Cooking!.
+🌟 When I'm not coding, you can find me Gaming, Weight lifting, and Cooking!
 
 ### Find Me Online
 
