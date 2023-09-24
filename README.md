@@ -13,7 +13,7 @@
 
 🛠️ Here are some of the tools and technologies I frequently use:
 - **Front-end**: HTML, CSS, JavaScript, React
-- **Back-end**: Node.js, Java, Express
+- **Back-end**: Node.js, Java, 
 - **Databases**: MongoDB, SQL
 - **Version Control**: Git, GitHub
 
